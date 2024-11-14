@@ -1,0 +1,1 @@
+Shortcode for the cart and for product registration in woocommerce
